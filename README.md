@@ -1,10 +1,4 @@
 <div align="center">
-
-# 👋 Hi, I'm Jarek - **Software Developer**
-
-
----
-
 ## 🚀 **Current Tech Stack** *(Feb 2026)*
 
 | **🌐 Frontend (10%)** | **⚙️ Backend (50%)** | **☁️ DevOps (40%)** |
